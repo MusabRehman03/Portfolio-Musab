@@ -3,15 +3,15 @@
     </div>
 
 <div align="center">
-  <img src="public/logo.png" alt="Logo" width="200" align="right"/>
+  <img src="public/M-image2.png" alt="Logo" width="200" align="right"/>
    &nbsp;&nbsp;&nbsp;&nbsp;
   <h4>
     My Portfolio Website a reflection of my journey as a frontend developer, showcasing my skills, projects, and creativity with interactive, responsive design.
   </h4>
   <p>
     <span style="font-size: 1.2em; font-weight: bold;">🔗 Live Demo:</span>
-    <a href="https://ahad-portfolio-pi.vercel.app/" target="_blank">
-      Ahad Portfolio Website
+    <a href="https://portfolio-musab-jade.vercel.app/" target="_blank">
+      Musab's Portfolio Website
     </a>
   </p>
 </div>
@@ -88,13 +88,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 <br/><br/>
 
-<div align="center"> 
-   <h3>📩 Connect with Me ⬇️</h3>
-   <h4>I’m actively looking for new opportunities! If you're a recruiter or hiring manager, feel free to reach out.</h4>
-   <a href="https://www.linkedin.com/in/muhammad-ahad1/" target="_blank">
-     <img src="https://img.shields.io/badge/linkedin.com/in/muhammad-ahad1-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-   </a>
-   <a href="https://github.com/Ahad-Awan" target="_blank">
-     <img src="https://img.shields.io/badge/github.com/Ahad-Awan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
-   </a>
-</div>
+
