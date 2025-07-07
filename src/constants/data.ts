@@ -79,7 +79,7 @@ export const myProjects = [
     desc: "My Portfolio Website a reflection of my journey as a frontend developer, showcasing my skills, projects, and creativity with interactive, responsive design.",
     live: "https://portfolio-musab-jade.vercel.app/",
     github: "https://github.com/MusabRehman03/Portfolio-Musab",
-    logo: "public/projects/Musab-Portfolio-image.png",
+    logo: "projects/Musab-Portfolio-image.png",
     logoStyle: {
       backgroundColor: "#4FC3F7",
       background:
@@ -125,7 +125,7 @@ export const myProjects = [
     desc: "Interactive Kanban board built with HTML, CSS, and JavaScript. Features task creation and smooth drag and drop for easy task management.",
     live: "https://musabrehman03.github.io/Kanban-Board/",
     github: "https://github.com/MusabRehman03/Kanban-Board",
-    logo: "public/projects/My-Kanban.png",
+    logo: "projects/My-Kanban.png",
     logoStyle: {
       backgroundColor: "#A0F0BC",
       background:
@@ -161,7 +161,7 @@ export const myProjects = [
     desc: "Modern personal dashboard with a sleek UI, interactive charts, and responsive design built for smooth data visualization, effortless navigation, and real-time insights.",
     live: "https://simple-react-dashboard-zeta.vercel.app/",
     github: "https://github.com/MusabRehman03/Simple-React-Dashboard",
-    logo: "public/projects/simple-dashbboard.png",
+    logo: "projects/simple-dashbboard.png",
     logoStyle: {
       backgroundColor: "#FF4C4C",
       background:
