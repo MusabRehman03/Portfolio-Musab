@@ -201,6 +201,51 @@ export const myProjects = [
         path: "icons/vercel.svg",
       },
     ],
+  },{
+    title: "Personal Dashboard",
+    desc: "A student dashboard where student can register for a course on a particular slot and after completion, a certificate will be awarded .",
+    live: "https://portfolio-musab-jade.vercel.app/",
+    github: "https://github.com/MusabRehman03/TPS-Student-Dashboard",
+    logo: "projects/student-dashboard.png",
+    logoStyle: {
+      backgroundColor: "#FF4C4C",
+      background:
+        "linear-gradient(0deg, #FF4C4C50, #FF4C4C50), linear-gradient(180deg, rgba(255, 255, 255, 0.95) 0%, rgba(255, 200, 200, 0.85) 100%)",
+      border: "0.2px solid rgba(255, 76, 76, 1)",
+      boxShadow: "0px 0px 60px 0px rgba(183, 28, 28, 0.4)",
+    },
+    tags: [
+      {
+        id: 1,
+        name: "React.js",
+        path: "icons/react.svg",
+      },
+      {
+        id: 3,
+        name: "TailwindCSS",
+        path: "icons/tailwindcss-icon.svg",
+      },
+      {
+        id: 5,
+        name: "Java Script",
+        path: "icons/javascript.svg",
+      },
+      {
+        id: 6,
+        name: "HTML",
+        path: "icons/html-5.svg",
+      },
+      {
+        id: 11,
+        name: "Vite",
+        path: "icons/vite.svg",
+      },
+      {
+        id: 12,
+        name: "Vercel",
+        path: "icons/vercel.svg",
+      },
+    ],
   },
   
 ];
