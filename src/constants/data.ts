@@ -77,9 +77,9 @@ export const myProjects = [
   {
     title: "Musab - Portfolio Website",
     desc: "My Portfolio Website a reflection of my journey as a frontend developer, showcasing my skills, projects, and creativity with interactive, responsive design.",
-    live: "https://ahad-portfolio-pi.vercel.app/",
-    github: "https://github.com/Ahad-Awan/portfolio-ahad",
-    logo: "projects/portfolio.png",
+    live: "https://portfolio-musab-jade.vercel.app/",
+    github: "https://github.com/MusabRehman03/Portfolio-Musab",
+    logo: "public/projects/Musab-Portfolio-image.png",
     logoStyle: {
       backgroundColor: "#4FC3F7",
       background:
@@ -123,9 +123,9 @@ export const myProjects = [
   {
     title: "Kanban Board",
     desc: "Interactive Kanban board built with HTML, CSS, and JavaScript. Features task creation and smooth drag and drop for easy task management.",
-    live: "https://kanban-board-js-five.vercel.app/",
-    github: "https://github.com/Ahad-Awan/Kanban-Board-js",
-    logo: "projects/kanban.png",
+    live: "https://musabrehman03.github.io/Kanban-Board/",
+    github: "https://github.com/MusabRehman03/Kanban-Board",
+    logo: "public/projects/My-Kanban.png",
     logoStyle: {
       backgroundColor: "#A0F0BC",
       background:
@@ -159,9 +159,9 @@ export const myProjects = [
   {
     title: "Personal Dashboard",
     desc: "Modern personal dashboard with a sleek UI, interactive charts, and responsive design built for smooth data visualization, effortless navigation, and real-time insights.",
-    live: "https://react-dashboard-one-mu.vercel.app/",
-    github: "https://github.com/Ahad-Awan/React-DashBoard",
-    logo: "projects/dashboard.png",
+    live: "https://simple-react-dashboard-zeta.vercel.app/",
+    github: "https://github.com/MusabRehman03/Simple-React-Dashboard",
+    logo: "public/projects/simple-dashbboard.png",
     logoStyle: {
       backgroundColor: "#FF4C4C",
       background:
@@ -202,99 +202,7 @@ export const myProjects = [
       },
     ],
   },
-  {
-    title: "Personal Portfolio Website",
-    desc: "A sleek, high performance personal portfolio built with React, Vite, and Tailwind CSS. It highlights my projects and skills with elegant animations and a fully responsive, modern design.",
-    live: "https://muhammad-ahad-portfolio.vercel.app/",
-    github: "https://github.com/Ahad-Awan/ahad-portfolio",
-    logo: "projects/ahad-portfolio.png",
-    logoStyle: {
-      backgroundColor: "#FF8A65",
-      background:
-        "linear-gradient(0deg, #FF8A6550, #FF8A6550), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)",
-      border: "0.2px solid rgba(255, 138, 101, 1)",
-      boxShadow: "0px 0px 60px 0px rgba(255, 138, 101, 0.3)",
-    },
-    tags: [
-      {
-        id: 1,
-        name: "React.js",
-        path: "icons/react.svg",
-      },
-      {
-        id: 3,
-        name: "TailwindCSS",
-        path: "icons/tailwindcss-icon.svg",
-      },
-      {
-        id: 5,
-        name: "Java Script",
-        path: "icons/javascript.svg",
-      },
-      {
-        id: 11,
-        name: "Vite",
-        path: "icons/vite.svg",
-      },
-      {
-        id: 12,
-        name: "Vercel",
-        path: "icons/vercel.svg",
-      },
-    ],
-  },
-  // {
-  //   title: "E - Learn",
-  //   desc: "A modern real-time chat application built using React, Socket.io, and Node.js. Supports multiple chat rooms, typing indicators, and instant message delivery.",
-  //   live: "https://chatapp-socket.vercel.app/",
-  //   github: "https://github.com/Ahad-Awan/RealTime-ChatApp",
-  //   logo: "projects/e-learn.png",
-  //   logoStyle: {
-  //     backgroundColor: "#FFD54F",
-  //     background:
-  //       "linear-gradient(0deg, #FFD54F50, #FFD54F50), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)",
-  //     border: "0.2px solid rgba(255, 213, 79, 1)",
-  //     boxShadow: "0px 0px 60px 0px rgba(255, 213, 79, 0.3)",
-  //   },
-  //   tags: [
-  //     { id: 1, name: "React.js", path: "icons/react.svg" },
-  //     { id: 2, name: "Socket.io", path: "icons/socketio-icon.svg" },
-  //     { id: 3, name: "Node.js", path: "icons/nodejs-icon.svg" },
-  //     { id: 4, name: "Express.js", path: "icons/expressjs-icon.svg" },
-  //     { id: 5, name: "Vercel", path: "icons/vercel.svg" },
-  //   ],
-  // },
-  {
-    title: "E - Learn",
-    desc: "E-Learn is a responsive educational platform built with HTML and CSS, featuring a clean design and user friendly interface for effective learning.",
-    live: "https://e-learn-seven.vercel.app/",
-    github: "https://github.com/Ahad-Awan/E-LEARN",
-    logo: "projects/e-learn.png",
-    logoStyle: {
-      backgroundColor: "#4DB6AC",
-      background:
-        "linear-gradient(0deg, #4DB6AC50, #4DB6AC50), linear-gradient(180deg, rgba(255, 255, 255, 0.95) 0%, rgba(208, 213, 221, 0.85) 100%)",
-      border: "0.2px solid rgba(77, 182, 172, 1)",
-      boxShadow: "0px 0px 60px 0px rgba(77, 182, 172, 0.3)",
-    },
-    tags: [
-      {
-        id: 1,
-        name: "HTML",
-        path: "icons/html-5.svg",
-      },
-      {
-        id: 2,
-        name: "CSS",
-        path: "icons/css-3.svg",
-      },
-      {
-        id: 12,
-        name: "Vercel",
-        path: "icons/vercel.svg",
-      },
-    ],
-  },
+  
 ];
 
 export const workExperiences = [
