@@ -217,8 +217,8 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: "React.js",
-        path: "icons/react.svg",
+        name: "Next.js",
+        path: "icons/nextjs.svg",
       },
       {
         id: 3,
