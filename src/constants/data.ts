@@ -121,11 +121,11 @@ export const myProjects = [
     ],
   },
   {
-    title: "Kanban Board",
-    desc: "Interactive Kanban board built with HTML, CSS, and JavaScript. Features task creation and smooth drag and drop for easy task management.",
-    live: "https://musabrehman03.github.io/Kanban-Board/",
-    github: "https://github.com/MusabRehman03/Kanban-Board",
-    logo: "projects/My-Kanban.png",
+    title: "Consultancy Website",
+    desc: "Interactive Consultancy Website built with HTML, CSS, and JavaScript. Showcase the Portfolio of the consultancy.",
+    live: "https://consultancy-website-7mcv93rwp-musab-ur-rehmans-projects.vercel.app/",
+    github: "https://github.com/MusabRehman03/Consultancy-Website",
+    logo: "projects/ConsultancyWebsite.png",
     logoStyle: {
       backgroundColor: "#A0F0BC",
       background:
@@ -201,8 +201,9 @@ export const myProjects = [
         path: "icons/vercel.svg",
       },
     ],
-  },{
-    title: "Personal Dashboard",
+  },
+  {
+    title: "Student Dashboard (LMS)",
     desc: "A student dashboard where student can register for a course on a particular slot and after completion, a certificate will be awarded .",
     live: "https://portfolio-musab-jade.vercel.app/",
     github: "https://github.com/MusabRehman03/TPS-Student-Dashboard",
