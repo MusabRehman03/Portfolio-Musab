@@ -20,35 +20,14 @@ const Footer = () => {
       ></motion.div>
 
       <div className="w-full px-9">
-        <div className="flex flex-col sm:flex-row justify-between items-center">
+        <div className="flex flex-col sm:flex-row justify-center items-center">
           {/* Left side: Copyright */}
           <div className="text-[12px] sm:text-sm text-neutral-400 mb-4 sm:mb-0">
             © {new Date().getFullYear()} Musab Ur Rehman. All rights reserved.
           </div>
 
           {/* Right side: Social Icons */}
-          <div className="flex gap-5">
-            {[
-              "https://github.com/Ahad-Awan",
-              "mailto:muhammadahad3813@gmail.com",
-              "https://www.linkedin.com/in/muhammad-ahad1/",
-            ].map((url, index) => (
-              <motion.div
-                key={index}
-                whileHover={{ scale: 1.2 }}
-                transition={{ duration: 0.2, ease: "easeOut" }}
-              >
-                <SocialIcon
-                  url={url}
-                  bgColor="transparent"
-                  fgColor="white"
-                  style={{ height: 35, width: 35 }}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                />
-              </motion.div>
-            ))}
-          </div>
+          
         </div>
       </div>
     </motion.footer>
