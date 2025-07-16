@@ -20,7 +20,7 @@ const Footer = () => {
       ></motion.div>
 
       <div className="w-full px-9">
-        <div className="flex flex-col sm:flex-row justify-center items-center">
+        <div className="flex flex-col sm:flex-row justify-between items-center">
           {/* Left side: Copyright */}
           <div className="text-[12px] sm:text-sm text-neutral-400 mb-4 sm:mb-0">
             © {new Date().getFullYear()} Musab Ur Rehman. All rights reserved.

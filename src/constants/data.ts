@@ -393,7 +393,7 @@ export const workExperiences = [
 export const socialLinks = [
   { url: "https://github.com/MusabRehman03" },
   { url: "mailto:rehmanmusab0302@gmail.com" },
-  { url: "https://www.linkedin.com/in/musab-ur-rehman/" },
+  { url: "https://www.linkedin.com/in/musab-ur-rehman-3a0a1a237/" },
 ];
 
 export const skills = [
