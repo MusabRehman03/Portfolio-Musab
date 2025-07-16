@@ -157,6 +157,42 @@ export const myProjects = [
     ],
   },
   {
+    title: "Travel Website",
+    desc: "Interactive Mock Travel Website built with HTML, CSS, and JavaScript. Showcase some best options for travelling.",
+    live: "https://travel-website-sooty-three.vercel.app/",
+    github: "https://github.com/MusabRehman03/travel-website",
+    logo: "projects/TravelWebsite.png",
+    logoStyle: {
+      backgroundColor: "#A0F0BC",
+      background:
+        "linear-gradient(0deg, #A0F0BC50, #A0F0BC50), linear-gradient(180deg, rgba(255, 255, 255, 0.95) 0%, rgba(208, 213, 221, 0.85) 100%)",
+      border: "0.2px solid rgba(160, 240, 188, 1)",
+      boxShadow: "0px 0px 60px 0px rgba(135, 234, 174, 0.4)",
+    },
+    tags: [
+      {
+        id: 1,
+        name: "HTML",
+        path: "icons/html-5.svg",
+      },
+      {
+        id: 2,
+        name: "CSS",
+        path: "icons/css-3.svg",
+      },
+      {
+        id: 3,
+        name: "Java Script",
+        path: "icons/javascript.svg",
+      },
+      {
+        id: 4,
+        name: "Vercel",
+        path: "icons/vercel.svg",
+      },
+    ],
+  },
+  {
     title: "Personal Dashboard",
     desc: "Modern personal dashboard with a sleek UI, interactive charts, and responsive design built for smooth data visualization, effortless navigation, and real-time insights.",
     live: "https://simple-react-dashboard-zeta.vercel.app/",
