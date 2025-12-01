@@ -123,7 +123,7 @@ export const myProjects = [
   {
     title: "Consultancy Website",
     desc: "Interactive Consultancy Website built with HTML, CSS, and JavaScript. Showcase the Portfolio of the consultancy.",
-    live: "https://consultancy-website-7mcv93rwp-musab-ur-rehmans-projects.vercel.app/",
+    live: "https://consultancy-website-five.vercel.app/",
     github: "https://github.com/MusabRehman03/Consultancy-Website",
     logo: "projects/ConsultancyWebsite.png",
     logoStyle: {
