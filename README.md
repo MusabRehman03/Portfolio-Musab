@@ -6,7 +6,7 @@
   <img src="public/M-image2.png" alt="Logo" width="200" align="right"/>
    &nbsp;&nbsp;&nbsp;&nbsp;
   <h4>
-    My Portfolio Website a reflection of my journey as a frontend developer, showcasing my skills, projects, and creativity with interactive, responsive design.
+    My Portfolio Website a reflection of my journey as a full stack developer, showcasing my skills, projects, and creativity with interactive, responsive design.
   </h4>
   <p>
     <span style="font-size: 1.2em; font-weight: bold;">🔗 Live Demo:</span>

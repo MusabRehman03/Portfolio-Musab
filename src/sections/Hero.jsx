@@ -32,20 +32,20 @@ const Hero = () => {
           </LinearGradient>
         </h2>
 
-        {/* Frontend Developer */}
+        {/* Full Stack Developer */}
         <h2 className="text-center text-white xl:text-6xl md:text-5xl sm:text-4xl text-3xl font-black !leading-normal relative w-[20ch] overflow-hidden whitespace-nowrap animate-typewriter border-r-4 border-white mt-0 sm:mt-0">
           <LinearGradient gradient={["to left", "#ff9720 ,#fc0865"]}>
-            Frontend Developer
+            Full Stack Developer
           </LinearGradient>
         </h2>
 
         {/* Paragraph */}
         <p className="max-w-5xl text-center justify-center text-white xl:text-xl md:text-lg sm:text-base text-sm sm:px-0 px-2">
-          I&apos;m a passionate Frontend Developer specializing in building
-          modern, responsive, and user friendly web interfaces using JavaScript,
-          TypeScript and React. I focus on writing clean code, creating smooth
-          user experiences, and continuously improving my skills to deliver high
-          quality web applications.
+          I&apos;m a passionate Full Stack (MERN) developer building scalable,
+          responsive web applications using MongoDB, Express, React, and Node.js —
+          often with TypeScript for stronger typing. I focus on clean, maintainable
+          code, fast user experiences, and continuous improvement to deliver
+          production-ready applications.
         </p>
       </div>
 

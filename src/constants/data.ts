@@ -130,8 +130,8 @@ export const myProjects = [
       backgroundColor: "#A0F0BC",
       background:
         "linear-gradient(0deg, #A0F0BC50, #A0F0BC50), linear-gradient(180deg, rgba(255, 255, 255, 0.95) 0%, rgba(208, 213, 221, 0.85) 100%)",
-      border: "0.2px solid rgba(160, 240, 188, 1)",
-      boxShadow: "0px 0px 60px 0px rgba(135, 234, 174, 0.4)",
+  border: "0.2px solid rgba(255, 76, 76, 1)",
+  boxShadow: "0px 0px 60px 0px rgba(255, 76, 76, 0.35)",
     },
     tags: [
       {
@@ -193,17 +193,17 @@ export const myProjects = [
     ],
   },
   {
-    title: "Personal Dashboard",
-    desc: "Modern personal dashboard with a sleek UI, interactive charts, and responsive design built for smooth data visualization, effortless navigation, and real-time insights.",
-    live: "https://simple-react-dashboard-zeta.vercel.app/",
-    github: "https://github.com/MusabRehman03/Simple-React-Dashboard",
-    logo: "projects/simple-dashbboard.png",
+  title: "Chat App",
+  desc: "A realtime chat application built with a React frontend and WebSocket-based realtime messaging. Features include persistent chat rooms, instant message delivery, responsive UI with Tailwind CSS, and seamless deployment on Vercel.",
+  live: "https://chat-app-client-orpin-one.vercel.app/login",
+  github: "https://github.com/MusabRehman03/chat-app-client",
+    logo: "projects/Chat-App-Image.jpeg",
     logoStyle: {
-      backgroundColor: "#FF4C4C",
+      backgroundColor: "#6EE7B7",
       background:
-        "linear-gradient(0deg, #FF4C4C50, #FF4C4C50), linear-gradient(180deg, rgba(255, 255, 255, 0.95) 0%, rgba(255, 200, 200, 0.85) 100%)",
-      border: "0.2px solid rgba(255, 76, 76, 1)",
-      boxShadow: "0px 0px 60px 0px rgba(183, 28, 28, 0.4)",
+        "linear-gradient(0deg, #6EE7B750, #6EE7B750), linear-gradient(180deg, rgba(255, 255, 255, 0.95) 0%, rgba(208, 213, 221, 0.85) 100%)",
+  border: "0.2px solid rgba(177, 142, 255, 1)",
+  boxShadow: "0px 0px 60px 0px rgba(177, 142, 255, 0.35)",
     },
     tags: [
       {
@@ -212,27 +212,17 @@ export const myProjects = [
         path: "icons/react.svg",
       },
       {
+        id: 2,
+        name: "Socket.IO",
+        path: "icons/javascript.svg",
+      },
+      {
         id: 3,
         name: "TailwindCSS",
         path: "icons/tailwindcss-icon.svg",
       },
       {
-        id: 5,
-        name: "Java Script",
-        path: "icons/javascript.svg",
-      },
-      {
-        id: 6,
-        name: "HTML",
-        path: "icons/html-5.svg",
-      },
-      {
-        id: 11,
-        name: "Vite",
-        path: "icons/vite.svg",
-      },
-      {
-        id: 12,
+        id: 4,
         name: "Vercel",
         path: "icons/vercel.svg",
       },
@@ -245,11 +235,11 @@ export const myProjects = [
     github: "https://github.com/MusabRehman03/TPS-Student-Dashboard",
     logo: "projects/student-dashboard.png",
     logoStyle: {
-      backgroundColor: "#FF4C4C",
+      backgroundColor: "#60A5FA",
       background:
-        "linear-gradient(0deg, #FF4C4C50, #FF4C4C50), linear-gradient(180deg, rgba(255, 255, 255, 0.95) 0%, rgba(255, 200, 200, 0.85) 100%)",
-      border: "0.2px solid rgba(255, 76, 76, 1)",
-      boxShadow: "0px 0px 60px 0px rgba(183, 28, 28, 0.4)",
+        "linear-gradient(0deg, #60A5FA50, #60A5FA50), linear-gradient(180deg, rgba(255, 255, 255, 0.95) 0%, rgba(208, 213, 221, 0.85) 100%)",
+      border: "0.2px solid rgba(59, 130, 246, 1)",
+      boxShadow: "0px 0px 60px 0px rgba(59, 130, 246, 0.35)",
     },
     tags: [
       {
